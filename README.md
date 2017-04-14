@@ -70,6 +70,30 @@ material-kit
 └── changelog.txt
 ```
 
+### Changelog 
+
+- V1.0.0 15 Jun, 2016 - Initial Release
+
+- V1.1.0 14 Apr, 2017 - BugFixing, Plugins Updates, New Cards (HTML Version)
+  - Bootstrap v3.3.7
+  - Bootstrap DateTimePicker v4.17.45
+  - Replace Bootstrap SelectPicker v1.11.2
+  - Replace Tags with Bootstrap TagsInput v0.8.0
+  - jQuery.Flexisel v2.1.0
+  - NoUiSlider v9.0.0
+  - jQuery v3.1.1
+  - moment.js v2.14.1
+  - Added new cards
+  - Added 3D animation effect for images on cards(atvImg library)
+  - Added DynamicShadows
+  - Added New rotating cards
+  - Added Ecommerce Page
+  - Bug fixing
+  - Documentation Updates
+  - Added simple input example
+
+IMPORTANT! If you migrate from V1.0.0 to V1.1.0 please make sure your replace the '.content' class inside each card with '.card-content', we've made this adjustment for a better control of the content that is inside a card. Sorry for the inconvenience.
+
 ## Useful Links
 
 More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
