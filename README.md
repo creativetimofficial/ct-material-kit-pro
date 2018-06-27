@@ -117,11 +117,11 @@ At present, we officially aim to support the last two versions of the following 
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-kit-pro/issues)
-+ [Material Kit Free](http://demos.creative-tim.com/material-kit/index.html)
-+ [Material Dashboard Free HTML](http://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
-+ [Material Dashboard Pro HTML](http://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html)
-+ [Material Dashboard Free Angular](http://md-angular2.creative-tim.com)
-+ [Material Dashboard Pro Angular](http://md-pro-angular2.creative-tim.com/)
++ [Material Kit Free](https://demos.creative-tim.com/material-kit/index.html)
++ [Material Dashboard Free HTML](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
++ [Material Dashboard Pro HTML](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html)
++ [Material Dashboard Free Angular](https://demos.creative-tim.com/material-dashboard-angular2/dashboard)
++ [Material Dashboard Pro Angular](https://demos.creative-tim.com/material-dashboard-pro-angular2/dashboard)
 
 
 ## Reporting Issues
