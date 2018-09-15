@@ -8,7 +8,7 @@
 
 **[Material Kit PRO](https://demos.creative-tim.com/material-kit-pro/index.html)** is a beautiful resource built for Bootstrap. It was made over the powerful Bootstrap Material Design. We used and have redesigned all components to make it look flat, minimalist and easy to use. We are proud of this new Bootstrap skin and the possibilities for customisation.
 
-Using it is very simple and it will enable you to refresh you classic looking application. To get the desired effect you will also need to integrate JS plugins that take a little bit more effort. It the end the result will be worth it.
+Using it is very simple and it will enable you to refresh your classic looking application. To get the desired effect you will also need to integrate JS plugins that take a little bit more effort. It the end the result will be worth it.
 
 **[Material Kit PRO](https://demos.creative-tim.com/material-kit-pro/index.html)** uses a framework built by our friend Federico - Bootstrap Material, who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
 
