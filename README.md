@@ -76,7 +76,6 @@ At present, we officially aim to support the last two versions of the following 
 
 - Copyright 2020 Y-Not ()
 
-- Creative Tim [license](https://www.creative-tim.com/license)
 
 
 ##### Social Media
