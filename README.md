@@ -74,7 +74,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Licensing
 
-- Copyright 2020 Y-Not (https://www.creative-tim.com/)
+- Copyright 2020 Y-Not ()
 
 - Creative Tim [license](https://www.creative-tim.com/license)
 
