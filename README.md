@@ -1,8 +1,8 @@
 # [Material Kit 2 PRO](http://demos.creative-tim.com/material-kit-pro/index.html?ref=readme-mkp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-pro&text=Check%20Material%20Kit%202%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#uiKit%20#materialDesign%20#html%20https://www.creative-tim.com/product/material-kit-pro) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
-![version](https://img.shields.io/badge/version-3.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.3-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/46/original/material-kit-pro.jpg?1633081755)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/534/original/material-kit-pro.jpg?1632843641)
 
 The most complex and innovative Design System Made by [Creative Tim](https://creative-tim.com/){target: blank}. Check our latest Premium Bootstrap 5 UI Kit with a fresh, new design inspired by Google's Material Design 2.
 
