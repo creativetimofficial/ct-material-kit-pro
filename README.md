@@ -1,8 +1,8 @@
 # [Material Kit 2 PRO](http://demos.creative-tim.com/material-kit-pro/index.html?ref=readme-mkp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/material-kit-pro&text=Check%20Material%20Kit%202%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#designSystem%20#uiKit%20#materialDesign%20#html%20https://www.creative-tim.com/product/material-kit-pro) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
-![version](https://img.shields.io/badge/version-3.0.3-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.4-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/534/original/material-kit-pro.jpg?1632843641)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/46/original/material-kit-pro.jpg?1633081755)
 
 The most complex and innovative Design System Made by [Creative Tim](https://creative-tim.com/){target: blank}. Check our latest Premium Bootstrap 5 UI Kit with a fresh, new design inspired by Google's Material Design 2.
 
@@ -50,22 +50,28 @@ During the development of this design system, we have used many existing resourc
 - [Rellax](https://dixonandmoe.com/rellax/) - Lightweight, vanilla javascript parallax library
 - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links
 - [Typed](https://mattboldt.com/demos/typed-js/) - A JavaScript Typing Animation Library
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Material Kit 2 Pro. You can use it to gain insights into your sources of traffic.
 
 Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
--  [Versions](#versions)
--  [Demo](#demo)
--  [Quick Start](#quick-start)
--  [Documentation](#documentation)
--  [File Structure](#file-structure)
--  [Browser Support](#browser-support)
--  [Resources](#resources)
--  [Reporting Issues](#reporting-issues)
--  [Technical Support or Questions](#technical-support-or-questions)
--  [Licensing](#licensing)
--  [Useful Links](#useful-links)
+- [Material Kit 2 PRO  ](#material-kit-2-pro--)
+      - [Special thanks](#special-thanks)
+  - [Table of Contents](#table-of-contents)
+  - [Versions](#versions)
+  - [Demo](#demo)
+  - [Quick start](#quick-start)
+  - [Terminal Commands](#terminal-commands)
+  - [Documentation](#documentation)
+    - [What's included](#whats-included)
+  - [Browser Support](#browser-support)
+  - [Resources](#resources)
+  - [Reporting Issues](#reporting-issues)
+  - [Technical Support or Questions](#technical-support-or-questions)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+        - [Social Media](#social-media)
 
 ## Versions
 
@@ -138,6 +144,7 @@ At present, we officially aim to support the last two versions of the following 
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-mkp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-mkp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-kit-pro/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Material Kit 2 PRO. Here are some advices for our users that want to report an issue:
