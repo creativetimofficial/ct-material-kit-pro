@@ -1,5 +1,12 @@
 # Change Log
 
+## [3.0.4] 2023-05-07
+### Updates
+- update Bootstrap to v5.2.3
+- update Popper.js to v2.11.7
+- update navbar link 
+- add Nepcha scripts
+  
 ## [3.0.3] 2022-06-23
 ### BugFixing
 - fix inputs on RTL
